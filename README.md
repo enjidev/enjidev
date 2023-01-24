@@ -1,5 +1,8 @@
 <a href="https://www.enji.dev/work/contact">
-  <img alt="Enji Kusnadi | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./header.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+    <img alt="Enji Kusnadi | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./header.svg" width="100%" />
+  </picture>
 </a>
 
 <header>
