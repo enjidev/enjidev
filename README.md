@@ -1,4 +1,6 @@
-<img alt="Enji Kusnadi | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./header.svg" width="100%" />
+<a href="https://www.enji.dev/work/contact">
+  <img alt="Enji Kusnadi | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="./header.svg" width="100%" />
+</a>
 
 <header>
     <div align="center">
