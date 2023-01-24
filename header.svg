@@ -135,8 +135,8 @@
     <!-- #region additional  -->
     <g class="animate-fade-in-right additional">
       <g class="additional__indicator animate-fade-in">
-        <circle cx="373" cy="215" r="4" fill="#7733ff" class="animate-ping" />
-        <circle cx="373" cy="215" r="4" fill="#7733ff" />
+        <circle cx="373" cy="215" r="5" fill="#7733ff" class="animate-ping" />
+        <circle cx="373" cy="215" r="3" fill="#7733ff" />
       </g>
       <g class="additional__text">
         <path
