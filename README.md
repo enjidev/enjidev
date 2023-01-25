@@ -1,7 +1,7 @@
 <a href="https://www.enji.dev/work/contact">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enjidev/enjidev/main/header-dark.svg">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/enjidev/enjidev/main/header.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enjidev/enjidev/main/header.svg" />
     <img alt="Enji Kusnadi | Freelancer · Front-End Developer · UI/UX Designer 🎨" src="https://raw.githubusercontent.com/enjidev/enjidev/main/header.svg" width="100%" />
   </picture>
 </a>
@@ -23,7 +23,7 @@
 <br />
 <br />
 
-<details>
+<details open>
   <summary><h2>📊 Statistics</h2></summary>
   <div>
     <br />
@@ -37,16 +37,16 @@
       <a href="https://github.com/enjidev?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true">
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
-          <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&count_private=true" />
+          <img alt="Enji Kusnadi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true" />
         </picture>
       </a>
       <br /><br />
       <a href="https://github.com/enjidev?tab=repositories&q=&type=&language=&sort=stargazers">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff">
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=enjidev" />
-          <img alt="Enji Kusnadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enjidev" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=enjidev" />
+          <img alt="Enji Kusnadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enjidev&show_icons=true&title_color=c4b5fd&icon_color=475569&bg_color=90,0f172a,1e293b&text_color=cbd5e1&border_color=1e293b&text_bold=false&count_private=true&ring_color=7733ff" />
         </picture>
       </a>
     </div>
