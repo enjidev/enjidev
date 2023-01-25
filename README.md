@@ -29,7 +29,7 @@
     <br />
     <div>
       <a href="https://github.com/enjidev">
-        <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=enjidev&style=flat&color=7733ff&label=GitHub+Profile+Views" />
+        <img alt="This week GitHub profile views" src="https://komarev.com/ghpvc/?username=enjidev&style=flat&color=7733ff&label=This+week+GitHub+profile+views" />
       </a>
       <br /><br />
     </div>
